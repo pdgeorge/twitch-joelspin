@@ -1,0 +1,5 @@
+# Ignore a specific directory
+/.terraform/
+
+# Ignore all .MP4 files in the project
+*.MP4
