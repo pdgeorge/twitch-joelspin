@@ -3,3 +3,7 @@
 
 # Ignore all .MP4 files in the project
 *.MP4
+
+# Ignore Notes.txt
+notes.txt
+test.sh
